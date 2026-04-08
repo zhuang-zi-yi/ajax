@@ -1,4 +1,4 @@
-
+<img width="2560" height="251" alt="image" src="https://github.com/user-attachments/assets/d30e6850-6ee3-4593-95a4-3008b0b9716f" />
 我要学习Ajax启动<br>
 想要使用axios函数库需要先使用<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>来进行导入<br>
 后面使用.then(result =>{<br>
@@ -32,4 +32,15 @@ axios在运行时候把参数名和值,会拼接到url>参数名=值<br>
  http协议规定了服务器发送以及服务器返回的格式<br>
  请求报文:浏览器按照http协议要求格式,发送给服务器内容<br>
  <img width="1758" height="857" alt="image" src="https://github.com/user-attachments/assets/4fc2f740-bb85-4e5b-831d-8b7781f0b3cf" /><br>
+ <h3>http状态响应码</h3><br>
+ 2成功，4开头客户端错误，5服务端错误<br>
+ 相应行（）：协议http响应状态码，状态信息<br>
+ 相应头：以键值对的格式携带的附加信息，比如content-type<br>
+ 空行：分隔响应头，空行之后的是返回浏览器的资源<br>
+ 响应体，返回的资源<br>
+<h3>接口文档</h3><br>
+接口文档：描述接口的文章<br>
+接口：使用Ajax和服务器通讯时候，使用的url，请求方法，以及参数<br>
+ 
+
 
