@@ -1,4 +1,4 @@
-<img width="994" height="500" alt="image" src="https://github.com/user-attachments/assets/27eb9b6c-8b0a-478f-9a03-02129f51b9fe" /># ajax
+
 我要学习Ajax启动<br>
 想要使用axios函数库需要先使用<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>来进行导入<br>
 后面使用.then(result =>{<br>
