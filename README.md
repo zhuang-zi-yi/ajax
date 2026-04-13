@@ -42,5 +42,8 @@ axios在运行时候把参数名和值,会拼接到url>参数名=值<br>
 接口文档：描述接口的文章<br>
 接口：使用Ajax和服务器通讯时候，使用的url，请求方法，以及参数<br>
 bootstrap的modal弹框:添加modal类名（默认隐藏）
+图片上传使用Formddata携带图片文件<br>
+const fd = new FormData<br>
+fd.append(参数名，值)<br>
 
 
